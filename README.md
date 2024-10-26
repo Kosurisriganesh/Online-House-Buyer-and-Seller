@@ -1,0 +1,1 @@
+The House Project is a React-based platform where users can browse available houses and list properties for sale. Buyers can view property details, while sellers can easily post listings with essential information. The project offers a straightforward interface, enhancing the real estate browsing and listing experience.
